@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Project {
 	
-	public static void main(String[] Args) {
+	public static void main(String[] args) {
 	Random random = new Random();
 	Scanner scanner = new Scanner(System.in);
 	int guess = random.nextInt(1, 100); 	

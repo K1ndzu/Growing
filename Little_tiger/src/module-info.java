@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Little_tiger {
-}
